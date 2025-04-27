@@ -21,7 +21,8 @@ pip install Flask Pillow
 # Run the application:
 bash
 python app.py
-# Open a web browser and go to http://localhost:3000.
+# Open a web browser and go to 
+http://localhost:3000.
 
 Upload an image using the provided form.
 View the classification result displayed on the page.
